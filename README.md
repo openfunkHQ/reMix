@@ -1,7 +1,7 @@
 # re-Mix
 Official documentation for the re:Mix kitchen mixer, maintained by Open Funk.
 
-This repository contains SCAD files and STLs of the printed parts.
+This repository contains STEPs for the CNC milled parts and STLs for the 3D printed parts.
 
 **Links**
 - Open Funk website: https://www.openfunk.co/
