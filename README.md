@@ -8,5 +8,6 @@ This repository contains STEPs for the CNC milled parts and STLs for the 3D prin
 Use the Technical documentation to familirise yourself with re:Mix. The Bill of Materials included in the document contains the component names which are reused throughout the Github project.
 
 **Links**
-- Open Funk website: https://www.openfunk.co/
+
+Open Funk website: https://www.openfunk.co/
 
