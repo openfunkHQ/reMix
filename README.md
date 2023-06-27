@@ -3,7 +3,7 @@ Official documentation for the re:Mix kitchen mixer, maintained by Open Funk. Th
 
 **How to start**
 
-Use the document "Techinical documentation, BOM and Assembly Guide" to familirise yourself with re:Mix. The Bill of Materials included in the document contains the component names which are reused throughout the Github project.
+Use the document "Technical documentation, BOM and Assembly Guide" to familirise yourself with re:Mix. The Bill of Materials included in the document contains the component names which are reused throughout the Github project.
 
 **Links**
 
