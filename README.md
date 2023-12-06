@@ -2,6 +2,7 @@
 Official documentation for the re:Mix kitchen mixer, maintained by Open Funk. This repository contains a technical description, an assembly guide, a Bill of Materials, as well as STEPs for the CNC milled parts and STLs for the 3D printed parts.
 
 **2-phase release**
+
 We are releasing the design files in 2 stages: 
 
 1. Body, serving as a base for a mixer, coffee grinder, kitchen machine, lemon squeezer, etc. (first released December 2023)
