@@ -7,10 +7,10 @@ The license "CERN Open Hardware Licence Version 2 - Strongly Reciprocal" applies
 
 **2-phase release**
 
-We are releasing the design files in 2 stages: 
+re:Mix has been designed internally and the open source release takes place in 2 phases:
 
-1. Body, serving as a base for a mixer, coffee grinder, kitchen machine, lemon squeezer, etc. (first released December 2023)
-2. Blender head and other accessories - upcoming
+1. Body incl. electronics, as a base for blenders, coffee grinders, food processors, lemon squeezers, etc. (released on 6.12.23)
+2. Blender head (release planned for summer 2024)
 
 **How to start**
 
