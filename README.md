@@ -27,6 +27,7 @@ Use the document "Technical documentation, BOM and Assembly Guide" to familiaris
 By using the provided information, you acknowledge and agree to this disclaimer, using the self-built mixer at your own risk.
 
 **Special thanks**
+
 Special thanks to Open-Source Ecology e.V. Germany, for helping us build, refine and test this documentation. And to Postcode Lotterie Deutschland for supporting the development of this documentation financially.
 
 **Links**
